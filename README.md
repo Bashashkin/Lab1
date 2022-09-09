@@ -1,5 +1,9 @@
 # Lab1
-
+ 
+Группа: АДЭУ-221
+Башашкин А.М
+alesha_2010@list.ru
+ 
 1. https://colab.research.google.com/drive/1QZjq7CNzFrKAb8B7bJ4baKsHKc5ukF4J#scrollTo=wXt_57fO4iOi
 2. https://colab.research.google.com/drive/1eJ6zcVOZqwS4dTHI6U2eTzP9cRM7ngPa#scrollTo=UElufvJ38oHn
 3. https://colab.research.google.com/drive/1yJFlzdOnlwUyHAangm89_MMYx2npOvrh#scrollTo=UsTOI4MICaL4
